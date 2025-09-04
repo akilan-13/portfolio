@@ -14,6 +14,6 @@ Currently preparing to move to Toronto, Canada — focusing on **React, Node.js,
 - **Python Automation Scripts** — CSV/Excel automation with Pandas  
 
 ## 📫 Contact
-- Email: alaguakilan1305@gmail.comchore: add initial README
+- Email: alaguakilan1305@gmail.com
 - LinkedIn: [Alagu Akilan](https://www.linkedin.com/in/alagu-akilan-8b8352296/)  
 - GitHub: [akilan-13](https://github.com/akilan-13)
